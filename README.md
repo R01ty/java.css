@@ -92,7 +92,7 @@ java.html
   <script src="task.js"></script>
 </body>
 </html>
-```
+``
 java.css
 
 body {
@@ -154,7 +154,7 @@ body {
     text-decoration: line-through;
     color: rgb(114, 114, 114);
   }
-```
+``
 task.js
 
 // Initialize tasks array
@@ -251,3 +251,5 @@ document.getElementById('filterSelect').addEventListener('change', renderTasks);
 loadTasks();
 ```
 ## OUTPUT:
+![Screenshot 2024-07-05 144006](https://github.com/R01ty/java.css/assets/142526219/59347da5-df7f-4ecd-8d98-e150d330f3f6)
+
